@@ -1,6 +1,6 @@
 <?php
 
-namespace app\core\form;
+namespace auroch\phpmvc\form;
 
 class TextAreaField extends BaseField
 {

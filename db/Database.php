@@ -1,8 +1,8 @@
 <?php
 
-namespace app\core\db;
+namespace auroch\phpmvc\db;
 
-use app\core\Application;
+use auroch\phpmvc\Application;
 
 class Database
 {

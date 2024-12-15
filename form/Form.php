@@ -1,8 +1,8 @@
 <?php
 
-namespace app\core\form;
+namespace auroch\phpmvc\form;
 
-use app\core\Model;
+use auroch\phpmvc\Model;
 
 class Form
 {

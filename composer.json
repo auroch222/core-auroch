@@ -2,7 +2,7 @@
     "name": "auroch/php-mvc-core",
     "autoload": {
         "psr-4": {
-            "Auroch\\PhpMvcCore\\": "src/"
+            "auroch\\phpmvc": "."
         }
     },
     "authors": [

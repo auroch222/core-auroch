@@ -1,9 +1,9 @@
 <?php
 
-namespace app\core\db;
+namespace auroch\phpmvc\db;
 
- use app\core\Application;
- use app\core\Model;
+ use auroch\phpmvc\Application;
+ use auroch\phpmvc\Model;
 
  abstract class DbModel extends Model
 {

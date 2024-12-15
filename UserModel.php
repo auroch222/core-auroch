@@ -1,8 +1,8 @@
 <?php
 
-namespace app\core;
+namespace auroch\phpmvc;
 
-use app\core\db\DbModel;
+use auroch\phpmvc\db\DbModel;
 
 abstract class UserModel extends DbModel
 {

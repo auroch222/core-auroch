@@ -1,8 +1,8 @@
 <?php
 
-namespace app\core;
+namespace auroch\phpmvc;
 
-use app\core\exception\NotFoundException;
+use auroch\phpmvc\exception\NotFoundException;
 
 class Router
 {

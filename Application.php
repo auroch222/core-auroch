@@ -1,9 +1,9 @@
 <?php
 
-namespace app\core;
+namespace auroch\phpmvc;
 
-use app\core\db\Database;
-use app\core\db\DbModel;
+use auroch\phpmvc\db\Database;
+use auroch\phpmvc\db\DbModel;
 
 class Application
 {
