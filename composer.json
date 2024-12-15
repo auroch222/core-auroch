@@ -1,0 +1,15 @@
+{
+    "name": "auroch/php-mvc-core",
+    "autoload": {
+        "psr-4": {
+            "Auroch\\PhpMvcCore\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "auroch222",
+            "email": "auroch222@gmail.com"
+        }
+    ],
+    "require": {}
+}
